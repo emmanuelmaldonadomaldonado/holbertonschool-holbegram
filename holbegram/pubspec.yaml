@@ -9,13 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
-
-  # Firebase & Cloud Firestore
-  firebase_core: ^2.24.0
-  firebase_auth: ^4.14.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.17.4
   cloud_firestore: ^4.14.0
-  firebase_auth_web: ^5.5.0
+  firebase_auth_web: ^5.8.13
+  js: ^0.6.7
 
   # UI and Utilities
   image_picker: ^1.0.4
@@ -25,7 +23,6 @@ dependencies:
   http: ^0.13.6
   flutter_staggered_grid_view: ^0.7.0
   bottom_navy_bar: ^6.0.0
-  js: ^0.6.7
 
 dev_dependencies:
   flutter_test:

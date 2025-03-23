@@ -3,7 +3,7 @@
 
 plugins {
     // Plugin para Google Services (Firebase)
-    id("com.google.gms.google-services") version "4.3.13" apply false
+    id("com.google.gms.google-services") version "4.3.15" apply false
 }
 
 allprojects {
